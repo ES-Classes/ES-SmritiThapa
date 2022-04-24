@@ -21,8 +21,7 @@ let para = "My name is \
 Smriti Thapa";
 
 para = `My name is
-Smriti Thapa
-`;
+Smriti Thapa`;
 
 //string interpolation
 console.log(`My college is ${a + b + c}`);

@@ -16,7 +16,7 @@ formatName = (firstName, lastName) => `Hello! ${lastName}, ${firstName}`;
 
 
 printHello('Bishnu');
-let fullName = formatName('Bishnu', 'Rawal');
+let fullName = formatName('Smriti', 'Thapa');
 console.log(fullName);
 
 
