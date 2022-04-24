@@ -1,7 +1,7 @@
 console.log('hello world');
 
 var age=22;
-age='rakesh';
+age='Smriti';
 
 //Datatypes - 8 types
 
@@ -19,9 +19,9 @@ console.log(bigNumbers);
 
 
 //String - sewuence of character
-var  name = 'Rakesh prajapati';
-name = "Rakesh";
-name = 'Rakesh';
+var  name = 'Smrit Thapa';
+name = "Smriti";
+name = 'Smriti';
 console.log('My name is  ${1 + 5 * 6}');
 
 

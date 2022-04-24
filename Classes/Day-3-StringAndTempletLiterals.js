@@ -1,7 +1,7 @@
-const a = "Rakesh";
-const b = 'Prajapati';
+const a = "Smriti";
+const b = 'Thapa';
 const c = `Vedas`;
-const d = new String('Rakesh Prajapati');
+const d = new String('Smriti Thapa');
 
 
 console.log(a.length);
@@ -18,10 +18,11 @@ let dd = 'ख';
 console.log(cc.localeCompare(ccc));
 
 let para = "My name is \
-Rakesh Prajapati";
+Smriti Thapa";
 
 para = `My name is
-Rakesh Prajapati`;
+Smriti Thapa
+`;
 
 //string interpolation
 console.log(`My college is ${a + b + c}`);
